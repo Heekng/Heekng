@@ -45,7 +45,7 @@
 
 ### 토이프로젝트
 
-[TFT 초심자를 위한 가이드](https://front-toche-web.vercel.app/)
+[TFT 초심자를 위한 가이드 Toche](https://front-toche-web.vercel.app/)
 
 [소상공인을 위한 쉬운 매장관리 Celloct](https://celloct.heekng.com)
 
