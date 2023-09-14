@@ -41,7 +41,7 @@
 
 ### Projects
 
-[TFT 초심자를 위한 가이드 Toche](https://front-toche-web.vercel.app/)
+[TFT 초심자를 위한 가이드 Toche](https://front-toche-web.vercel.app/) <- Closed
 
 [소상공인을 위한 쉬운 매장관리 Celloct](https://celloct.heekng.com)
 
