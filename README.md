@@ -37,8 +37,6 @@
 
 [Heekng's Tistory Blog](https://heekng.tistory.com)
 
-개발블로그를 운영하면서 잊고 지나갈 수 있는 내용을 정리하고 있습니다.
-
 [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=Heekng&color=dark)](https://github.com/MoonJuhan/tistory-readme-stats)
 
 ---
