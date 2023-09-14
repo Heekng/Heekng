@@ -4,7 +4,7 @@
 
 ---
 
-### 기술 스택
+### Tech Stack
 
 - Language:
 ![Java](https://img.shields.io/badge/java-236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### 개발블로그
+### Personal site
 
 [Heekng's Tistory Blog](https://heekng.tistory.com)
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 토이프로젝트
+### Projects
 
 [TFT 초심자를 위한 가이드 Toche](https://front-toche-web.vercel.app/)
 
